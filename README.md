@@ -37,3 +37,6 @@ when your PCB is ready, mark everything, then right click and "Create Array". Ch
 ![grafik](https://user-images.githubusercontent.com/1591573/142768813-ece31682-33f7-49fe-8298-cfc120e7bace.png)
 
 then place mouse bite footprint and modify the Edge.Cuts layer on the first pcb.  Then just "Create Array" on this again.
+
+A Video showing different ways to make panels in KiCad:
+[![Watch the video](https://img.youtube.com/vi/_Syjz8m-2fw/maxresdefault.jpg)](https://youtu.be/_Syjz8m-2fw)
